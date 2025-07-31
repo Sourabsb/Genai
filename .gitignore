@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+venv/
+rag/chroma_vector_store/
